@@ -1,0 +1,1 @@
+Jawaban nomor 1: SSH menggunakan port 22
